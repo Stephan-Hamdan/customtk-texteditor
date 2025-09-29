@@ -16,6 +16,10 @@ Open, edit, and save plain text files with a simple, clean UI.
 
 ---
 
+# Screenshot
+<img width="791" height="634" alt="ctkW" src="https://github.com/user-attachments/assets/91d0248c-613b-4a9f-adac-d2384fd04ba8" />
+
+---
 ## Requirements
 - Python 3.x
 - `customtkinter` (and the standard `tkinter` supplied with Python)
@@ -24,5 +28,4 @@ Install dependencies:
 ```bash
 pip install customtkinter
 
-# Screenshot
-<img width="791" height="634" alt="ctkW" src="https://github.com/user-attachments/assets/91d0248c-613b-4a9f-adac-d2384fd04ba8" />
+
